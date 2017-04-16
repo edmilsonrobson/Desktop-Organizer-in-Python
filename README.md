@@ -1,5 +1,5 @@
-# Desktop-Organizer-in-Python
-DOP (Desktop Organizer in Python) organizes your desktop by sending specific file extensions in your dekstop to a specific folder with support for subfolder structures.
+# DOP (Desktop Organizer in Python)
+DOP organizes your desktop by sending specific file extensions in your dekstop to a specific folder with support for subfolder structures.
 
 ## How to Use
 1. Open `main.py` and edit the **configuration** portion of the script on the top of it.
